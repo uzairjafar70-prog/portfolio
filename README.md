@@ -1,3 +1,3 @@
 # portfolio
 This is my portfolio that's i designed through figma.Here the link....
-https://www.figma.com/design/PINRVw1oQppd8ivEmvuMna/portfolio?node-id=0-1&t=OxFtonTm2za3mO0g-1
+https://www.figma.com/proto/PINRVw1oQppd8ivEmvuMna/portfolio?node-id=1-3&p=f&t=YITVklNFPyS30pnh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
